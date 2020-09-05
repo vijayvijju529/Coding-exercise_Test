@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\SeleniumExercise\SeleniumExercise\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lenovo\source\repos\SeleniumExercise\SeleniumExercise\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lenovo\source\repos\SeleniumExercise\SeleniumExercise\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lenovo\source\repos\SeleniumExercise\SeleniumExercise\bin\Debug\netcoreapp2.1\SeleniumExercise.deps.json
+C:\Users\lenovo\source\repos\SeleniumExercise\SeleniumExercise\bin\Debug\netcoreapp2.1\SeleniumExercise.runtimeconfig.json
+C:\Users\lenovo\source\repos\SeleniumExercise\SeleniumExercise\bin\Debug\netcoreapp2.1\SeleniumExercise.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\SeleniumExercise\SeleniumExercise\bin\Debug\netcoreapp2.1\SeleniumExercise.dll
+C:\Users\lenovo\source\repos\SeleniumExercise\SeleniumExercise\obj\Debug\netcoreapp2.1\SeleniumExercise.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\SeleniumExercise\SeleniumExercise\obj\Debug\netcoreapp2.1\SeleniumExercise.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\SeleniumExercise\SeleniumExercise\obj\Debug\netcoreapp2.1\SeleniumExercise.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\SeleniumExercise\SeleniumExercise\obj\Debug\netcoreapp2.1\SeleniumExercise.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\SeleniumExercise\SeleniumExercise\bin\Debug\netcoreapp2.1\SeleniumExercise.pdb
+C:\Users\lenovo\source\repos\SeleniumExercise\SeleniumExercise\obj\Debug\netcoreapp2.1\SeleniumExercise.dll
+C:\Users\lenovo\source\repos\SeleniumExercise\SeleniumExercise\obj\Debug\netcoreapp2.1\SeleniumExercise.pdb
+C:\Users\lenovo\source\repos\SeleniumExercise\SeleniumExercise\bin\Debug\netcoreapp2.1\Drivers\chromedriver.exe
